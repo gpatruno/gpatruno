@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  -->
 - ⚡ Fun fact: I love developing
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gpatruno&theme=blue)
