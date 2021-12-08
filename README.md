@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Api / Software / WebSite
-- 🌱 I’m currently learning .NET Core / TypeScript / Node Js
+- 🌱 I’m currently learning React Native / TypeScript / Node Js And Angular
 <!-- - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java & NodeJs
